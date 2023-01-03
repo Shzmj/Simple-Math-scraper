@@ -1,0 +1,17 @@
+{
+  "name": "math-course-info-scraper",
+  "version": "1.0.0",
+  "description": "A simple web scraper to scrape data from UNSW math course pages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "puppeteer": "^19.4.1"
+  },
+  "type": "module"
+}
