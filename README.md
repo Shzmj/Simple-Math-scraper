@@ -10,4 +10,4 @@ Properties scraped include:
 
 The data above was then extracted and used for a React App project to create dynamic webpages found here: [Math-Electives] (https://github.com/Personal-Projex/Math-Electives).
 
-To see the scraped data, open courseInfo.json in the data folder.
+To see the scraped data, open courseInfo.json in the data folder (or [click here](./data/courseInfo.json))
