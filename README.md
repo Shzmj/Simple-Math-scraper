@@ -6,7 +6,7 @@ Properties scraped include:
 - Course name
 - Course conditions
 - Course description
-- Terms run
+- Teaching periods
 
 The data above was then extracted and used for a React App project to create dynamic webpages found here: [Math-Electives] (https://github.com/Personal-Projex/Math-Electives).
 
