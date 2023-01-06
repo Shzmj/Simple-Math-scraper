@@ -12,4 +12,4 @@ The data above was then extracted and used for a React App project to create dyn
 
 To see the scraped data, open courseInfo.json in the data folder (or [click here](./data/courseInfo.json))
 
-To use the webscraper, simply run ```node courseScraper.js```
+To use the webscraper, simply run ```node courseScraper.js``` in the root directory
